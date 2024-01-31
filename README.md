@@ -42,4 +42,4 @@ The Event Scheduler Console Application is a simple command-line tool designed t
 ## Usage
 1. Clone the repository to your local machine.
    ```bash
-   git clone 
+   git clone https://github.com/TshimbiluniRSA/Junior-Developer-Intern-Challenge
